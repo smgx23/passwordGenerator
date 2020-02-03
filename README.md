@@ -18,6 +18,6 @@ The user will input the following;
 
 
 Link:  https://smgx23.github.io/passwordGenerator/
-
+![screenshotPasswordGen](Assests/ScreenShot/screenshot.png)
 
 
